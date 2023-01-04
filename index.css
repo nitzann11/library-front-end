@@ -1,0 +1,13 @@
+html, 
+body {
+    height: 100%;
+}
+.navbar {
+  margin-bottom: 20px;
+}
+.form-inline .input-group {
+  width: auto;   
+}
+label {
+margin-right: 10px;
+}
